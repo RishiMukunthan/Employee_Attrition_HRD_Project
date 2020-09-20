@@ -1,0 +1,2 @@
+# Employee_Attrition_HRD
+Human resources department of a company has collected data on its employees with variables like Performance Rating, Job Satisfaction, Work-life balance etc. We need to develop a model ro predict and classify employees who are likely to quit the company in the near future from those who are likely to stay.  Hiring and Retaining employees are extremely complex tasks that require capital, time and skills.  This project would help a company save time and capital put in to hiring and replacing a employee.
